@@ -21,6 +21,8 @@ and was used for running the iperf3 client instance.
 The main router and the two routers under test where separated by approximately 3
 meters, in a triangular pattern.
 
+![alt text](https://raw.githubusercontent.com/teixeluis/openwrt-perf-tests/main/openwrt-perf-tests-setup.png "Tests setup")
+
 The TP-Link router was running OpenWRT release 15.05.1, whereas the Youku was running
 a OpenWRT snapshot build (r15345-077c16fa05) manually compiled from the following 
 separate branch:
